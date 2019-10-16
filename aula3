@@ -1,0 +1,20 @@
+#Aula3 Workspace
+
+#criar variável x
+
+x <- 0
+
+#criando outra variável
+
+variavelWorkspace <- "Exemplo"
+
+#listar objetos do Workspace
+ls()
+
+#remover variável do Workspace
+
+rm([nome da variável])
+
+#para apagar todos os objetos/variáveis do workspace
+
+rm(list = ls())
